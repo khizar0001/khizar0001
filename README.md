@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Khizar Nawaz</h1>
 <h3 align="center">I'm a passionate Android and Flutter developer with a love for creating mobile applications that make people's lives easier and more enjoyable. I'm always eager to learn and stay up-to-date with the latest trends and technologies in the mobile development world.</h3>
