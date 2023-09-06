@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [eShops.pk - Your online store](https://play.google.com/store/apps/details?id=com.thesots.eshops)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** 
 
 - 💬 Ask me about **Android , Flutter**
 
